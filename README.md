@@ -12,9 +12,9 @@ Route & Efficiency: What are the busiest routes, and which airlines are the most
 Dashboard Preview
 Here is a preview of the final two-page interactive dashboard built in Power BI.
 
-Page 1: Pricing & Competitiveness Analysis
+[Page 1: Pricing & Competitiveness Analysis](https://raw.githubusercontent.com/pradyumnsingh06/Indian-Flights-Analysis-SQL-PowerBI/main/Screenshot%202025-07-28%20181038.png)
 
-Page 2: Route & Efficiency Analysis
+[Page 2: Route & Efficiency Analysis](https://raw.githubusercontent.com/pradyumnsingh06/Indian-Flights-Analysis-SQL-PowerBI/main/Screenshot%202025-07-28%20181027.png)
 
 The SQL Data Cleaning Process
 The raw dataset was split into two messy CSV files (economy.csv and business.csv) and required significant cleaning and transformation in MySQL before it could be used for analysis. The following steps were performed:
